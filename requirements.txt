@@ -1,0 +1,13 @@
+crewai 
+duckduckgo-search
+langchain-community 
+langchain-ollama 
+python-dotenv 
+streamlit
+langchain_groq
+langchain
+crewai
+streamlit
+langchain_groq 
+pydantic 
+python-dotenv
