@@ -72,8 +72,7 @@ The app will analyze the topic, generate insights and use cases, and collect rel
 - Enable selection of different research sources or custom datasets.
 - Integrate additional GenAI tools for enhanced use case generation and dataset collection.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 ## Acknowledgments
 - **OpenAI** for the API services.
