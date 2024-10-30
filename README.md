@@ -25,8 +25,7 @@ This application leverages AI-powered agents to conduct market research, identif
 ### Setup Instructions
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/market-research-use-case-gen.git
-   cd market-research-use-case-gen
+   git clone https://github.com/Ro-han12/Multi-agent-Researcher
    ```
 
 2. Install the required Python packages (if not already installed):
